@@ -1,0 +1,8 @@
+lvl_creator = '<strong>Creator:</strong> '
+lvl_name = '<strong>Name:</strong> '
+lvl_description = '<strong>Description:</strong>\n'
+lvl_difficulty = '<strong>Difficulty:</strong> '
+lvl_coins = '<strong>Coins:</strong> '
+lvl_stars = '<strong>Stars</strong>: '
+lvl_downloads = '<strong>Downloads:</strong> '
+lvl_id = '<strong>ID:</strong> '

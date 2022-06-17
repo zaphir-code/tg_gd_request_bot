@@ -1,0 +1,8 @@
+asyncio
+aiogram
+aiohttp
+aiohttp[speedups]
+uvloop
+ujson
+gd.py
+gd.py[speedups]
